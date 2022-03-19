@@ -32,7 +32,7 @@ Pillow==9.0.1
 psutil==5.9.0
 py-randomprime==0.7.33
 pyparsing==3.0.7
-pypresence==4.2.0
+pypresence==4.2.1
 pyqt-distutils==0.7.3
 pyqtdarktheme==1.0.3
 PySide2==5.15.2.1
